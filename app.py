@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import requests
 
-bot = telebot.TeleBot("416952491:AAHfBMbV5V_M5wlwK9XGiRGxMhy1yG1ayq0")
+bot = telebot.TeleBot("587880587:AAGX-EODQaZ-RHnjqK-vVZm5dkUb_n2aky8")
 
 # Кнопки
 
